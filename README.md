@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
 
-
-   
-
-
-   
-<br>
 <table cellspacing=20" <tr>
   <td>
 <img src="London.jpg" alt="Michele Giammarini" </td><td> <h1>Michele Giammarini<h1> <p><em>Fermo <strong> <td></tr>
