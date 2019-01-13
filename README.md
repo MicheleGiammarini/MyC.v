@@ -4,17 +4,7 @@
     <meta charset="utf-8">
 
 
-    <title>Michele Giammarini</title>
-  </head>
-  <body style="background-color:#eaeaea; ">
-    <br style=""
-    <form>
-      <div>
-        <input type="search" id="mySearch" name="q"
-         placeholder="Search the site...">
-        <button>Search</button>
-      </div>
-    </form>
+   
 
 
 
