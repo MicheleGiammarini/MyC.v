@@ -7,8 +7,7 @@
    
 
 
-    <hr>
-    <hr>
+   
 <br>
 <table cellspacing=20" <tr>
   <td>
