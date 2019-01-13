@@ -18,20 +18,6 @@
 
 
 
-<p><h1>Michele Giammarini </p>
-
-      <p> <h2>Enter in Family </h2><p>
-
-
-
-        <p><h5>Your Nome &nbsp &nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Password <h5>
-        <P>
-      <form>
-        <labeln =""></label>
-          <input type="text" name="" value="">
-          <th></th>
-        <input type="password">
-      <form >
 <br>
 <br>
 </form>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -97,21 +83,4 @@
     </table></td>
   </tr>
 </table>
-      </tr>
-        </thead>
-      </table>
-      <p><h1></h1>HTML Challenge</h1></p>
-      <hr>
-      <a href="https://www.udemy.com/the-complete-web-development-bootcamp/learn/v4/t/quiz/4565626">Link to MDN Documentatio</a>
-      <table>
-              <thead>
-                <tr>
-            <td>
-            One</td>
-            <td>Two
-      <tr><td>Three</td> <td>Four</td></tr>
-      </tr>
-         <td>
-              </thead>
-            </table>
-
+      
